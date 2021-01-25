@@ -1,0 +1,9 @@
+a,b,c,d,e,f
+A,B,C,D,E,F,S
+S->aABC|aE
+A->SCD|c
+B->bFD
+C->aE
+D->aD
+E->aCE|a
+F->AB

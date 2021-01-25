@@ -1,0 +1,5 @@
+/Users/ws/univer/FormalGrammarTask/FormalGrammarTask/FormalGrammarTask/bin/Debug/FormalGrammarTask.exe
+/Users/ws/univer/FormalGrammarTask/FormalGrammarTask/FormalGrammarTask/bin/Debug/FormalGrammarTask.pdb
+/Users/ws/univer/FormalGrammarTask/FormalGrammarTask/FormalGrammarTask/obj/Debug/FormalGrammarTask.csprojAssemblyReference.cache
+/Users/ws/univer/FormalGrammarTask/FormalGrammarTask/FormalGrammarTask/obj/Debug/FormalGrammarTask.exe
+/Users/ws/univer/FormalGrammarTask/FormalGrammarTask/FormalGrammarTask/obj/Debug/FormalGrammarTask.pdb
