@@ -1,8 +1,7 @@
 using System.Collections.Generic;
 using System.Text;
-using FormalGrammarTask;
 
-namespace GrammarDeleteSymbols
+namespace FormalGrammarTask
 {
     public class Rule
     {

@@ -2,10 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using FormalGrammarTask;
 using FormalGrammarTask.Symbols;
 
-namespace GrammarDeleteSymbols
+namespace FormalGrammarTask
 {
     public static class DeleteSymbolsMechanic
     {

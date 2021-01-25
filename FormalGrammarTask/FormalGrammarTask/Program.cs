@@ -1,7 +1,6 @@
 ﻿using System;
-using FormalGrammarTask;
 
-namespace GrammarDeleteSymbols
+namespace FormalGrammarTask
 {
     internal static class Program
     {
